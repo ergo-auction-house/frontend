@@ -30,6 +30,8 @@ We really appreciate you testing the platform. You'll get a chance to familiariz
   - You can see all information about the artwork, including its traits, creator, collection, history, etc.
 - Search
   - You can search for artworks, collections, artists, etc.
+- Dark mode
+  - Please use both dark and light modes and see if everything looks good.
 - Others
   - There are a lot more details. Just play around and see what you can find. It's important to test all the features and see if they work as expected. If you find any bugs, please [report them](#report-bugs).
 
