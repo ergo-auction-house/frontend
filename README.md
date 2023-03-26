@@ -1,6 +1,9 @@
 ## Auction House private testing phase
 First I'd like to thank the artists who agreed to help us with testing. The first phase of testing will be on tesnet. This allows you to create as many artworks and collections that you wish without worrying about duplicates or fees.
 
+
+### Plese do not share this link with anyone else. This is for testing purposes only. We will share the mainnet link with everyone once we are ready.
+
 ## What you get out of this
 We really appreciate you testing the platform. You'll get a chance to familiarize yourself with the platform before others. Also in the next phase, you'll get a chance to test the verification process and get verified before others.
 
