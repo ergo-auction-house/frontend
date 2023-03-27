@@ -47,7 +47,7 @@ Overall, please note that you will find bugs and issues and things that don't wo
 - You need the Nautilus wallet for testnet. This is different from the mainnet wallet you have.
 - You may need another browser for that to avoid both of these wallets interfering with each other.
 - Download the testnet version from [here](https://github.com/capt-nemo429/nautilus-wallet/releases/tag/v0.7.2)
-- Then you can load it into your browser. You can find instructions [here](https://www.cnet.com/tech/services-and-software/how-to-install-chrome-extensions-manually/)
+- Then you can load it into your browser. You can find instructions [here](https://ui.vision/howto/install-chrome-extension-from-file)
 - Once you have the extension installed, create a new wallet and you are good to login to the platform.
 - You can get some testnet ERG from [here](https://tn-faucet.ergohost.io/)
 - Start using the platform: https://auctionhouse-testnet-qa78f.ondigitalocean.app
